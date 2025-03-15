@@ -26,6 +26,7 @@ public class Person {
     }
 
     public static void main(String[] args) {
+        calc(1, 2);
         System.out.println("Hello World!");
     }
 }
